@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @yuvraj-jpg
-- 👀 I’m interested in ..
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in ..programming
+- 🌱 I’m currently learning ...python 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...whtspp contact 9634148989
 
 <!---
 yuvraj-jpg/yuvraj-jpg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
