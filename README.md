@@ -2,7 +2,7 @@
 - 👀 I’m interested in ..programming
 - 🌱 I’m currently learning ...python 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...whtspp contact 9634148989
+- Radhe Radhe 
 
 <!---
 yuvraj-jpg/yuvraj-jpg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
