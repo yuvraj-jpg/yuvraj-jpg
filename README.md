@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **yv96875@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Q2nRMib8U6Xdd-wFPi6GkepzTro9FIKBZ0Ui0EJ7Spg/edit](https://docs.google.com/document/d/1Q2nRMib8U6Xdd-wFPi6GkepzTro9FIKBZ0Ui0EJ7Spg/edit)
+- 📄 Know about my experiences https://docs.google.com/document/d/1Q2nRMib8U6Xdd-wFPi6GkepzTro9FIKBZ0Ui0EJ7Spg/edit?usp=sharing
 
 - ⚡ Fun fact **I think i am funny**
 
