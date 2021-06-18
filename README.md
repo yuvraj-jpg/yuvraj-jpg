@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvraj-jpg" alt="yuvraj-jpg" /></a> </p>
 
-- 🔭 I’m currently working on **machine learning**
+- 🔭 I’m currently working on **machine learning and web developing**
 
 - 🌱 I’m currently learning **Everything**
 
