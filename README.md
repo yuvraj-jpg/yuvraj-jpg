@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Verma</h1>
-<h3 align="center">Want to become a software developer</h3>
+<h3 align="center">Want to become a Web developer</h3>
 
-- 🔭 I’m currently working on **web projects**
+- 🔭 I’m currently working on ReactJS
 
-- 🌱 I’m currently learning **Everything**
+- 🌱 I’m currently learning Everything
 
-- 👨‍💻 All of my projects are available at [my computer repository](my computer repository)
+- 👨‍💻 All of my projects are available at [my computer repository]
 
-- 💬 Ask me about **Python ,css,html,OOP,GUI Tkinter,MYSql**
+- 💬 Ask me about Web 
 
 - 📫 How to reach me **yv96875@gmail.com**
 
